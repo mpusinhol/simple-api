@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "first_name": "John",
+  "last_name": "Winchester",
+  "age": 30,
+  "gender": "MALE",
+  "birth_date": "1993-09-19"
+}
